@@ -1,6 +1,5 @@
 tgcrypto
 requests
-youtube_dl
 ffmpeg-python
 python-dotenv
 pytgcalls==3.0.0.dev21
